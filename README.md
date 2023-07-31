@@ -19,7 +19,7 @@ Welcome to my first website repository! This project was developed as an assignm
 ## Demo
 
 You can access the live demo of my websites at:
-- [My First Website (WordPress)](https://nicolelimat.github.io/web-programmig-first-website/)
+- [My First Website (WordPress)](https://nicolelimat.github.io/web-programming-first-website/)
 - [My Second Website (HTML, CSS, and JavaScript)](https://nicolelimat.github.io/web-programming-second-website/)
 
 ## Technologies Used
